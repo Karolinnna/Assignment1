@@ -43,9 +43,11 @@ public class Assignment1Part2 extends KarelTheRobot{
 		
 		for(int i = 0; i<avg-1; i++) {
 			move();
-			putBeeper();
+			
 		}
+		putBeeper();
 	}
+	
 }
 
  
